@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  background: #ffffff;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+/* hide scrollbar on horizontal category rows */
+.hide-scroll::-webkit-scrollbar {
+  display: none;
+}

@@ -1,0 +1,454 @@
+[
+  {
+    "itemname": "Kia Sonet",
+    "category": "Cars",
+    "image": "https://stimg.cardekho.com/images/car-images/930x620/Kia/Sonet/9783/1705386619542/222_Pewter-Olive_33382d.jpg",
+    "itemprops": [
+      {
+        "label": "Color",
+        "value": "Pewter Olive"
+      },
+      {
+        "label": "Engine",
+        "value": "1.2L Kappa"
+      },
+      {
+        "label": "RPM",
+        "value": "6000"
+      },
+      {
+        "label": "Capacity",
+        "value": "5 Seater"
+      }
+    ]
+  },
+  {
+    "itemname": "iPhone 16 Pro",
+    "category": "Phones",
+    "image": "https://images.unsplash.com/photo-1726732970014-f2df88c87dd3?q=80&w=1032&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "Lens Type",
+        "value": "Tetraprism Telephoto"
+      },
+      {
+        "label": "Screen Size",
+        "value": "6.3-inch"
+      },
+      {
+        "label": "Battery",
+        "value": "3577 mAh"
+      }
+    ]
+  },
+  {
+    "itemname": "Tesla Model 3",
+    "category": "Cars",
+    "image": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-3-Main-Hero-Desktop-LHD.jpg",
+    "itemprops": [
+      {
+        "label": "Range",
+        "value": "341 miles"
+      },
+      {
+        "label": "0-60 mph",
+        "value": "5.8s"
+      },
+      {
+        "label": "Top Speed",
+        "value": "125 mph"
+      }
+    ]
+  },
+  {
+    "itemname": "MacBook Pro M3",
+    "category": "Computers",
+    "image": "https://images.unsplash.com/photo-1724859234679-964acf07b126?q=80&w=870&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "Processor",
+        "value": "Apple M3 Max"
+      },
+      {
+        "label": "RAM",
+        "value": "36GB"
+      },
+      {
+        "label": "Display",
+        "value": "Liquid Retina XDR"
+      }
+    ]
+  },
+  {
+    "itemname": "Ducati Panigale V4",
+    "category": "Bikes",
+    "image": "https://images.ctfassets.net/x7j9qwvpvr5s/43adRuY33iuCayAyMy3wTw/5545b174f876fc95ffcfff3d643c4d23/Ducati-MY25-Panigale-V4-overview-carousel-hero-link-1600x650-01.jpg",
+    "itemprops": [
+      {
+        "label": "Type",
+        "value": "Superbike"
+      },
+      {
+        "label": "Displacement",
+        "value": "1,103 cc"
+      },
+      {
+        "label": "Max Power",
+        "value": "214 hp"
+      }
+    ]
+  },
+  {
+    "itemname": "Samsung S24 Ultra",
+    "category": "Phones",
+    "image": "https://images.samsung.com/in/smartphones/galaxy-s24-ultra/images/galaxy-s24-ultra-highlights-color-carousel-exclusive.jpg",
+    "itemprops": [
+      {
+        "label": "Zoom",
+        "value": "100x Space Zoom"
+      },
+      {
+        "label": "Stylus",
+        "value": "S-Pen Included"
+      }
+    ]
+  },
+  {
+    "itemname": "Royal Enfield Himalayan",
+    "category": "Bikes",
+    "image": "https://www.royalenfield.com/content/dam/royal-enfield/motorcycles/himalayan-450/gma/gma-himalayan.webp",
+    "itemprops": [
+      {
+        "label": "Engine",
+        "value": "Sherpa 450"
+      },
+      {
+        "label": "Weight",
+        "value": "196 kg"
+      }
+    ]
+  },
+  {
+    "itemname": "Dell XPS 15",
+    "category": "Computers",
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-15-9530/media-gallery/touch-black/notebook-xps-15-9530-t-black-gallery-4.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=677&qlt=100,1&resMode=sharp2&size=677,402&chrss=full",
+    "itemprops": [
+      {
+        "label": "GPU",
+        "value": "RTX 4050"
+      },
+      {
+        "label": "Chassis",
+        "value": "CNC Aluminum"
+      }
+    ]
+  },
+  {
+    "itemname": "Hyundai Tucson",
+    "category": "Cars",
+    "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Tucson/10133/1762431617294/front-left-side-47.jpg",
+    "itemprops": [
+      {
+        "label": "AWD",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "itemname": "Google Pixel 9",
+    "category": "Phones",
+    "image": "https://images.unsplash.com/photo-1727132528094-117c9dceb047?q=80&w=1031&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "Chip",
+        "value": "Tensor G4"
+      }
+    ]
+  },
+  {
+    "itemname": "Kawasaki Ninja H2",
+    "category": "Bikes",
+    "image": "https://cdn.bikedekho.com/processedimages/kawasaki/kawasaki-ninja-h2/source/kawasaki-ninja-h261a5ba444bbd9.jpg",
+    "itemprops": [
+      {
+        "label": "Supercharged",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "itemname": "ASUS ROG Zephyrus",
+    "category": "Computers",
+    "image": "https://www.amd.com/content/dam/amd/en/images/products/laptops/2201103-amd-advantage-laptop-rog-zephyrus-g14-video-thumbnail.png",
+    "itemprops": [
+      {
+        "label": "Screen",
+        "value": "OLED"
+      }
+    ]
+  },
+  {
+    "itemname": "Honda Civic",
+    "category": "Cars",
+    "image": "https://images10.gaadi.com/usedcar_image/5247609/original/processed_50a4a83c-3124-4bde-982c-ab0888306cfb.jpg?imwidth=930",
+    "itemprops": [
+      {
+        "label": "Hybrid",
+        "value": "Available"
+      }
+    ]
+  },
+  {
+    "itemname": "OnePlus 12",
+    "category": "Phones",
+    "image": "https://imgs.search.brave.com/J2oKrlKjJ-nIFwv-DvHWsskgA1vun-Qe21pKTBrUYcg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y25ldC5jb20vYS9p/bWcvcmVzaXplL2Nm/ZGY2N2FiOTQyMWM3/ZjdmYjc5ZDQwMDBj/MzhjZGRjMjdkYjNm/OWUvaHViLzIwMjQv/MDEvMjIvYTc2ZmUy/OGEtNjgyNC00MzI5/LTg3NjUtNjYyMDVm/YmJjNTIyL29uZXBs/dXMtMTItMTJyLWNu/ZXQtbGFueG9uLXJl/dmlldy0xMS5qcGc_/YXV0bz13ZWJwJmZp/dD1jcm9wJmhlaWdo/dD0zNjImd2lkdGg9/NjQ0",
+    "itemprops": [
+      {
+        "label": "Charge",
+        "value": "100W"
+      }
+    ]
+  },
+  {
+    "itemname": "BMW S1000RR",
+    "category": "Bikes",
+    "image": "https://imgs.search.brave.com/MLnRAqJ4g5uJP1oieyiD9Nu6z06sKCBnl25db6XnvJc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWdk/LmFlcGxjZG4uY29t/LzY0MngzNjEvbi9j/dy9lYy8xOTE0MDUv/Ym13LXMxMDAwcnIt/cmlnaHQtc2lkZS12/aWV3Ny5qcGVnP2lz/aWc9MCZxPTc1",
+    "itemprops": [
+      {
+        "label": "HP",
+        "value": "205"
+      }
+    ]
+  },
+  {
+    "itemname": "Toyota Fortuner",
+    "category": "Cars",
+    "image": "https://static3.toyotabharat.com/images/showroom/fortuner/fortuner-mmc/new-fortuner.webp",
+    "itemprops": [
+      {
+        "label": "Engine",
+        "value": "2.8L Diesel"
+      }
+    ]
+  },
+  {
+    "itemname": "Nothing Phone 2",
+    "category": "Phones",
+    "image": "https://imgs.search.brave.com/_8xKzsucYHNzZXVnfxBpTD0IGRrKeCgQ9dJ0t4c4IXA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9mZG4u/Z3NtYXJlbmEuY29t/L2ltZ3Jvb3QvcmV2/aWV3cy8yMi9ub3Ro/aW5nLXBob25lLTEv/bGlmZXN0eWxlLy0x/MDI0dzIvZ3NtYXJl/bmFfMDExLmpwZw",
+    "itemprops": [
+      {
+        "label": "Glyph",
+        "value": "Version 2.0"
+      }
+    ]
+  },
+  {
+    "itemname": "Harley Fat Boy",
+    "category": "Bikes",
+    "image": "https://images.unsplash.com/photo-1646904473811-a6a4b3a0a508?q=80&w=774&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "Engine",
+        "value": "Milwaukee-Eight 114"
+      }
+    ]
+  },
+  {
+    "itemname": "Lenovo Legion 5",
+    "category": "Computers",
+    "image": "https://cdn.mos.cms.futurecdn.net/iATyhDP3bd5cX9Jn5TsTiM-1920-80.jpg.webp",
+    "itemprops": [
+      {
+        "label": "GPU",
+        "value": "RTX 4060"
+      }
+    ]
+  },
+  {
+    "itemname": "Volkswagen Virtus",
+    "category": "Cars",
+    "image": "https://cdn-s3.autocarindia.com/volkswagen/Virtus/500_8133.jpg?w=640&q=75",
+    "itemprops": [
+      {
+        "label": "TSI",
+        "value": "1.5L"
+      }
+    ]
+  },
+  {
+    "itemname": "Triumph Rocket 3",
+    "category": "Bikes",
+    "image": "https://images.unsplash.com/photo-1740750047356-47f64339d196?q=80&w=387&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "CC",
+        "value": "2458cc"
+      }
+    ]
+  },
+  {
+    "itemname": "Surface Pro 9",
+    "category": "Computers",
+    "image": "https://images.unsplash.com/photo-1682939634606-363829072b91?q=80&w=464&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "CPU",
+        "value": "Intel i7"
+      }
+    ]
+  },
+  {
+    "itemname": "Ford Mustang",
+    "category": "Cars",
+    "image": "https://images.unsplash.com/photo-1591293836027-e05b48473b67?q=80&w=870&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "Engine",
+        "value": "5.0L Coyote V8"
+      }
+    ]
+  },
+  {
+    "itemname": "Yamaha R1",
+    "category": "Bikes",
+    "image": "https://images.unsplash.com/photo-1626840362735-afb64615318d?q=80&w=387&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "Tech",
+        "value": "Crossplane"
+      }
+    ]
+  },
+  {
+    "itemname": "HP Spectre x360",
+    "category": "Computers",
+    "image": "https://images.unsplash.com/photo-1599299009482-3b5326fc52e4?q=80&w=870&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "Nits",
+        "value": "400"
+      }
+    ]
+  },
+  {
+    "itemname": "Audi e-tron GT",
+    "category": "Cars",
+    "image": "https://images.unsplash.com/photo-1615222874898-37089fcf47ee?q=80&w=465&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "0-100",
+        "value": "3.3s"
+      }
+    ]
+  },
+  {
+    "itemname": "Suzuki Hayabusa",
+    "category": "Bikes",
+    "image": "https://images.unsplash.com/photo-1719161107534-6dc58147c3a4?q=80&w=774&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "Top Speed",
+        "value": "299 km/h"
+      }
+    ]
+  },
+  {
+    "itemname": "Porsche 911 GT3",
+    "category": "Cars",
+    "image": "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?q=80&w=870&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "Weight",
+        "value": "1435 kg"
+      }
+    ]
+  },
+  {
+    "itemname": "Alienware m18",
+    "category": "Computers",
+    "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/alienware-m18-mlk/media-gallery/hd/laptop-alienware-m18-r2-hd-perkey-intel-bk-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=522&qlt=100,1&resMode=sharp2&size=522,402&chrss=full",
+    "itemprops": [
+      {
+        "label": "Display",
+        "value": "18-inch QHD+"
+      }
+    ]
+  },
+  {
+    "itemname": "Jeep Wrangler",
+    "category": "Cars",
+    "image": "https://images.unsplash.com/photo-1640021042546-2a1b900f324b?q=80&w=464&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "Offroad",
+        "value": "Rock-Trac 4WD"
+      }
+    ]
+  },
+  {
+    "itemname": "KTM Duke 390",
+    "category": "Bikes",
+    "image": "https://images.unsplash.com/photo-1591378603223-e15b45a81640?q=80&w=870&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "Weight",
+        "value": "165kg"
+      }
+    ]
+  },
+  {
+    "itemname": "Motorola Edge 50 Pro",
+    "category": "Phones",
+    "image": "https://amateurphotographer.com/wp-content/uploads/sites/7/2024/05/Motorola-Edge-50-Pro-closeup-of-cameras-e1741256801259.jpg?w=900",
+    "itemprops": [
+      {
+        "label": "Display",
+        "value": "144Hz pOLED"
+      }
+    ]
+  },
+  {
+    "itemname": "ASUS ROG Phone 8",
+    "category": "Phones",
+    "image": "https://www.cnet.com/a/img/resize/d3abe24000cb0a0039f997b46ab22e3945781eed/hub/2024/01/14/c12c1958-45aa-40ea-9bbb-8ed19f4fa6fe/p1000268.jpg?auto=webp&width=1200",
+    "itemprops": [
+      {
+        "label": "Audio",
+        "value": "3.5mm Jack Included"
+      }
+    ]
+  },
+  {
+    "itemname": "HP Omen 16",
+    "category": "Computers",
+    "image": "https://images.unsplash.com/photo-1613750147830-c770850838b0?q=80&w=435&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "Cooling",
+        "value": "Tempest Cooling"
+      }
+    ]
+  },
+  {
+    "itemname": "Land Rover Defender",
+    "category": "Cars",
+    "image": "https://images.unsplash.com/photo-1722786102904-c6bf6bec8fc3?q=80&w=870&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "Ground Clearance",
+        "value": "291mm"
+      }
+    ]
+  },
+  {
+    "itemname": "Lamborghini Revuelto",
+    "category": "Cars",
+    "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?q=80&w=870&auto=format&fit=crop",
+    "itemprops": [
+      {
+        "label": "Hybrid",
+        "value": "V12 PHEV"
+      }
+    ]
+  }
+]
