@@ -14,3 +14,15 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Technologies Used
+React – Used to build the UI using components
+React Router – For navigation between pages
+Ant Design – For ready-made UI components like input, dropdown, and tags
+Tailwind CSS – For styling and responsive design
+Vite – For fast project setup and development
+JSON (data.json) – Used as a static data source (no backend)
+
+## Project Idea
+The idea was to build a multi-category product catalog app where users can browse items like cars, bikes, phones, and laptops.
+Users can search products, filter by category, view all items, and check detailed information for each product — similar to a basic e-commerce UI (without backend)
