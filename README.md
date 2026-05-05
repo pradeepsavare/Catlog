@@ -26,3 +26,6 @@ JSON (data.json) – Used as a static data source (no backend)
 ## Project Idea
 The idea was to build a multi-category product catalog app where users can browse items like cars, bikes, phones, and laptops.
 Users can search products, filter by category, view all items, and check detailed information for each product — similar to a basic e-commerce UI (without backend)
+
+## Live
+- https://catlog-ui.vercel.app/
